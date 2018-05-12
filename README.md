@@ -6,5 +6,8 @@ This repo is a modified version of the object detection kernel provided by Googl
 1) Clone this repository: https://github.com/tensorflow/models
 2) Once it is cloned, go to **research** > **object_detection**
 3) Follow the installation steps: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
-4) Copy the kernel from this repository (*object_detection_tutorial_manu.ipynb*) to the folder **object_detection**
+4) Copy the kernel from this repository (*object_detection_custom_images.ipynb*) to the folder **object_detection**
 5) Launch Jupyter and play with this kernel
+
+### Example:
+![](https://media.giphy.com/media/32aRZFeKI1ldMvfUJx/giphy.gif)
